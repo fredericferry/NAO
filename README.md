@@ -1,5 +1,5 @@
 # NAO
-Exploring the North Atlantic Oscillation
+Explore the North Atlantic Oscillation with the NAO station-based index, and using DJFM MSLP from ERA5 reanlysis and EOF analysis techniques
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
